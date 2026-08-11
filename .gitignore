@@ -1,0 +1,15 @@
+### Claude code template
+.claude
+!.claude/skills/
+CLAUDE.local.md
+### IntelliJ project files template
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+### Codex template
+.codex
+
+### uv
+.venv

@@ -1,0 +1,8 @@
+[project]
+name = "huggin-face-rl-learning"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "pyvirtualdisplay>=3.0",
+]
