@@ -13,3 +13,7 @@ gen
 
 ### uv
 .venv
+
+### 笔记本运行产物
+*.pkl
+replay*.mp4
