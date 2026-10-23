@@ -16,6 +16,7 @@ gen
 
 ### 笔记本运行产物
 *.pkl
+*.pt
 replay*.mp4
 logs/
 rl_trained/
